@@ -1,0 +1,132 @@
+{
+  "Hero": {
+    "title": "Pokemon TCG Pocket - 您的数字卡收藏冒险",
+    "description": "潜入Pokemon TCG Pocket,革命性的数字卡收集体验!每天打开两个免费的增强包,并发现具有沉浸式3D效果的令人惊叹的卡片。无论您是经验丰富的收藏家还是新的Pokemon TCG Pocket世界,在您的移动设备上体验收藏和战斗的兴奋。加入世界各地的数百万教练在Pokemon TCG Pocket,并开始您的收藏今天!",
+    "getButton": "下载Pokemon TCG Pocket - 现在开始你的收藏!",
+    "imageAlt": "Pokemon TCG Pocket 具有动态卡动画和收藏显示器"
+  },
+  "Problem": {
+    "title": "体验从未有过的卡片收集与Pokemon TCG口袋!",
+    "description": "探索Pokemon TCG Pocket的魔力,数字卡收集与尖端技术相遇!在Pokemon TCG Pocket中,用每天免费的增强器包构建你的梦想收藏,参与激动人心的战斗,体验卡片以惊人的视觉效果生存。加入Pokemon TCG Pocket的全球收藏家社区!",
+    "step1": "下载和安装Pokemon TCG Pocket",
+    "step2": "打开您的每日免费Booster包",
+    "step3": "建立你的收藏和战斗其他人",
+    "whatIs": {
+      "title": "什么是Pokemon TCG Pocket?",
+      "description": "Pokemon TCG Pocket 是您对数字卡收集的通道,由 Creatures Inc. 和 DeNA Co., Ltd. 开发 完美适合新手和老年收藏家,Pokemon TCG Pocket 提供了一个创新的方法,以移动格式体验 Pokemon 交易卡游戏。"
+    },
+    "howWorks": {
+      "title": "如何使用Pokemon TCG Pocket?",
+      "description": "在Pokemon TCG Pocket中,你每天都会收到两个免费的增强包来扩展你的收藏。浏览、组织和欣赏你的卡片以惊人的3D细节,参与自动战斗,并与世界各地的同行收藏者连接。"
+    },
+    "benefits": {
+      "title": "为什么教练喜欢Pokemon TCG口袋",
+      "emotional": {
+        "title": "沉浸式收藏体验在Pokemon TCG Pocket中",
+        "items": [
+          "体验每天打开数字强化包的兴奋",
+          "欣赏您的卡在惊人的3D与独特的视觉效果",
+          "连接到Pokemon TCG口袋收藏家的全球社区",
+          "庆祝完成罕见的卡片集和收藏"
+        ]
+      },
+      "cognitive": {
+        "title": "Pokemon TCG 口袋的战略深度",
+        "items": [
+          "主板建筑策略与您的数字收藏",
+          "学习卡片组合和战斗策略",
+          "在Pokemon TCG Pocket中跟踪您的收藏进度",
+          "通过自动战斗力学发展战略思维"
+        ]
+      }
+    },
+    "future": {
+      "title": "在Pokemon TCG口袋中收集数字卡的未来",
+      "description": "Pokemon TCG Pocket 继续以令人兴奋的新功能进化:",
+      "items": [
+        "定期更新新的卡片集和特殊版",
+        "增强的AR功能为交互式卡体验",
+        "扩展的战斗模式和比赛选项",
+        "特别活动和有限时间收藏",
+        "跨平台连接功能将到达Pokemon TCG Pocket"
+      ]
+    },
+    "ethical": {
+      "title": "在Pokemon TCG 口袋中的公平游戏",
+      "description": "Pokemon TCG Pocket 保持平衡的游戏环境:",
+      "items": [
+        "每日免费增强器包给所有玩家",
+        "可选的应用内购买,以增强体验",
+        "基于社区反馈的定期更新",
+        "安全、安全的交易环境"
+      ]
+    },
+    "conclusion": {
+      "title": "今天开始在Pokemon TCG Pocket中收藏!",
+      "description": "加入Pokemon TCG Pocket的数字卡收藏革命! 无论您是休闲收藏家还是竞争对手,Pokemon TCG Pocket都提供无穷无尽的娱乐和收藏可能性。"
+    }
+  },
+  "OtherComponent": {
+    "someKey": "探索Pokemon TCG Pocket 今天!"
+  },
+  "LanguageSwitcher": {
+    "language": {
+      "en": "English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "it": "Italiano",
+      "pt": "Português",
+      "nl": "Nederlands",
+      "pl": "Polski",
+      "ru": "Русский",
+      "ja": "日本語",
+      "ko": "한국어",
+      "zh": "中文",
+      "ar": "العربية",
+      "hi": "हिन्दी",
+      "tr": "Türkçe",
+      "sv": "Svenska",
+      "da": "Dansk",
+      "fi": "Suomi"
+    }
+  },
+  "Pricing": {
+    "title": "开始用Pokemon TCG Pocket收集!",
+    "subtitle": "开始您的数字卡收集之旅,免费的每日包!",
+    "promotion": "加入数以百万计的收藏家已经享受Pokemon TCG Pocket!",
+    "popular": "展出收藏",
+    "currency": "美元",
+    "paymentType": "免费使用可选的应用内购买"
+  },
+  "FAQ": {
+    "title": "Pokemon TCG Pocket FAQ - 您的数字卡收藏指南",
+    "subtitle": "关于Pokemon TCG Pocket你需要知道的一切",
+    "faqList": [
+      {
+        "question": "whatIsPokemonTCGPocket",
+        "answer": "whatIsPokemonTCGPocketAnswer"
+      },
+      {
+        "question": "howDoesItWork",
+        "answer": "howDoesItWorkAnswer"
+      },
+      {
+        "question": "whoIsItFor",
+        "answer": "whoIsItForAnswer"
+      },
+      {
+        "question": "isItFree",
+        "answer": "isItFreeAnswer"
+      }
+    ],
+    "whatIsPokemonTCGPocket": "什么使Pokemon TCG Pocket特别?",
+    "whatIsPokemonTCGPocketAnswer": "Pokemon TCG Pocket 是终极的数字卡收集体验! 随着每天免费的增强包,惊人的 3D 卡动画和一个活跃的全球社区,它改变了我们如何收集和享受 Pokemon 卡。 无论您是长期的粉丝还是新的收藏家,Pokemon TCG Pocket 提供了一个可访问和令人兴奋的方式来构建您的数字收藏!",
+    "howDoesItWork": "我如何开始使用Pokemon TCG Pocket?",
+    "howDoesItWorkAnswer": "开始使用Pokemon TCG Pocket很容易! 只需下载应用程序,创建您的帐户,并收到您的第一个强化包。 您将每天获得两套免费包,并可以组织您的收藏,参加战斗,并与其他收藏家连接。 直观的界面使Pokemon TCG Pocket完美适合初学者和经验丰富的收藏家!",
+    "whoIsItFor": "谁会喜欢Pokemon TCG?",
+    "whoIsItForAnswer": "Pokemon TCG Pocket是完美的每个人! 无论你是休闲收藏家,竞争对手,还是Pokemon粉丝,你都会找到爱的东西。 该应用程序适用于所有体验水平,为那些想要掌握Pokemon TCG Pocket的战斗系统的人提供简单的收藏功能和更深层次的战略元素。",
+    "isItFree": "Pokemon TCG Pocket真的可以免费玩吗?",
+    "isItFreeAnswer": "是的!Pokemon TCG Pocket是完全免费的开始玩,每天有两个免费的强化包可用。虽然可选的应用内购买可用于增强功能和额外的包,您可以充分享受Pokemon TCG Pocket的核心体验,而无需花费任何东西。"
+  }
+}

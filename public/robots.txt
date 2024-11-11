@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://pokemontcgpocket.my
+
+# Sitemaps
+Sitemap: https://pokemontcgpocket.my/sitemap.xml

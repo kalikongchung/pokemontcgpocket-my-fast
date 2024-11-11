@@ -1,0 +1,132 @@
+{
+  "Hero": {
+    "title": "Pokémon TCG Pocket - Din digitale kortsamling eventyr",
+    "description": "Dyk ned i Pokémon TCG Pocket, den revolutionerende digitale kortindsamlingserfaring! Åbn to gratis boosterpakker dagligt og opdag fantastiske kort med immersive 3D-effekter. Uanset om du er en erfaren samler eller ny til verden af Pokémon TCG Pocket, oplev spændingen ved at indsamle kort og kæmpe på din mobile enhed. Deltag i millioner af trænere verden over i Pokémon TCG Pocket og start din samling i dag!",
+    "getButton": "Download Pokémon TCG Pocket - Start din samling nu!",
+    "imageAlt": "Pokémon TCG Pocket med dynamiske kortanimationer og samlingskærm"
+  },
+  "Problem": {
+    "title": "Oplev at samle kort som aldrig før med Pokemon TCG Pocket!",
+    "description": "Oplev magien i Pokémon TCG Pocket, hvor digital kortindsamling møder banebrydende teknologi! I Pokémon TCG Pocket kan du opbygge din drømmekollektion med daglige gratis boosterpakker, engagere dig i spændende kampe og opleve kort, der kommer til live med fantastiske visuelle effekter.",
+    "step1": "Download og installér Pokémon TCG Pocket",
+    "step2": "Åbn din daglige gratis booster pakker",
+    "step3": "Byg din kollektion og bekæmpe andre",
+    "whatIs": {
+      "title": "Hvad er Pokemon TCG Pocket?",
+      "description": "Pokemon TCG Pocket er din gateway til digital kortindsamling, udviklet af Creatures Inc. og DeNA Co., Ltd. Perfekt til både nybegyndere og veteran samlere, Pokemon TCG Pocket tilbyder en innovativ tilgang til at opleve Pokemon Trading Card Game i et mobilt format."
+    },
+    "howWorks": {
+      "title": "Hvordan fungerer Pokémon TCG Pocket?",
+      "description": "I Pokemon TCG Pocket får du to gratis boosterpakker dagligt for at udvide din samling. Browse, organisere og beundre dine kort i fantastiske 3D-detaljer, deltage i auto-kampe og forbinde med kolleger verden over. Pokemon TCG Pockets intuitive grænseflade gør indsamling og kamp tilgængelig for alle."
+    },
+    "benefits": {
+      "title": "Hvorfor trænere elsker Pokémon TCG Pocket",
+      "emotional": {
+        "title": "Læs mere om Pokémon TCG Pocket",
+        "items": [
+          "Oplev spændingen ved at åbne digitale boosterpakker hver dag",
+          "Beundre dine kort i betagende 3D med unikke visuelle effekter",
+          "Forbind dig med et globalt fællesskab af Pokémon TCG Pocket-samlere",
+          "fejre færdiggørelsen af sjældne kortsæt og samlinger"
+        ]
+      },
+      "cognitive": {
+        "title": "Strategisk dybde af Pokemon TCG Pocket",
+        "items": [
+          "Master deck bygningsstrategier med din digitale samling",
+          "Lær kortkombinationer og kamptaktik",
+          "Følg fremskridt i Pokémon TCG Pocket",
+          "Udvikle strategisk tænkning gennem auto-kampmekanik"
+        ]
+      }
+    },
+    "future": {
+      "title": "Fremtiden for digital kortindsamling i Pokemon TCG Pocket",
+      "description": "Pokemon TCG Pocket fortsætter med at udvikle sig med spændende nye funktioner:",
+      "items": [
+        "Regelmæssige opdateringer med nye kortsæt og specialudgaver",
+        "Forbedrede AR-funktioner til interaktive kortoplevelser",
+        "Udvidede kampmodi og turneringsmuligheder",
+        "Særlige begivenheder og tidsbegrænsede samlinger",
+        "Muligheder for cross-platform-forbindelse kommer til Pokemon TCG Pocket"
+      ]
+    },
+    "ethical": {
+      "title": "Læs mere om Pokémon TCG Pocket",
+      "description": "Pokemon TCG Pocket opretholder et afbalanceret spilmiljø:",
+      "items": [
+        "Daglige gratis boosterpakker til alle spillere",
+        "Valgfrie in-app-køb for forbedrede oplevelser",
+        "Regelmæssige opdateringer baseret på community feedback",
+        "Et sikkert og sikkert handelsmiljø"
+      ]
+    },
+    "conclusion": {
+      "title": "Start din samling i Pokémon TCG Pocket i dag!",
+      "description": "Deltag i den digitale kortindsamling revolution med Pokemon TCG Pocket! Uanset om du er en tilfældig samler eller konkurrencedygtig spiller, Pokemon TCG Pocket tilbyder endeløse underholdning og indsamling muligheder. Download nu og opleve den næste udvikling af Pokemon kortindsamling!"
+    }
+  },
+  "OtherComponent": {
+    "someKey": "Udforsk Pokémon TCG Pocket i dag!"
+  },
+  "LanguageSwitcher": {
+    "language": {
+      "en": "English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "it": "Italiano",
+      "pt": "Português",
+      "nl": "Nederlands",
+      "pl": "Polski",
+      "ru": "Русский",
+      "ja": "日本語",
+      "ko": "한국어",
+      "zh": "中文",
+      "ar": "العربية",
+      "hi": "हिन्दी",
+      "tr": "Türkçe",
+      "sv": "Svenska",
+      "da": "Dansk",
+      "fi": "Suomi"
+    }
+  },
+  "Pricing": {
+    "title": "Start med at samle med Pokémon TCG Pocket!",
+    "subtitle": "Start din digitale kortindsamlingsrejse med gratis daglige pakker!",
+    "promotion": "Deltag i millioner af samlere, der allerede nyder Pokemon TCG Pocket!",
+    "popular": "Fælles kollektion",
+    "currency": "af USD",
+    "paymentType": "Gratis at spille med valgfrie in-app-køb"
+  },
+  "FAQ": {
+    "title": "Pokemon TCG Pocket FAQ - Din digitale kortsamling guide",
+    "subtitle": "Alt hvad du behøver at vide om Pokémon TCG Pocket",
+    "faqList": [
+      {
+        "question": "whatIsPokemonTCGPocket",
+        "answer": "whatIsPokemonTCGPocketAnswer"
+      },
+      {
+        "question": "howDoesItWork",
+        "answer": "howDoesItWorkAnswer"
+      },
+      {
+        "question": "whoIsItFor",
+        "answer": "whoIsItForAnswer"
+      },
+      {
+        "question": "isItFree",
+        "answer": "isItFreeAnswer"
+      }
+    ],
+    "whatIsPokemonTCGPocket": "Hvad gør Pokémon TCG Pocket så specielt?",
+    "whatIsPokemonTCGPocketAnswer": "Pokémon TCG Pocket er den ultimative digitale kortindsamlingsoplevelse! Med daglige gratis boosterpakker, fantastiske 3D-kortanimationer og et aktivt globalt samfund revolutionerer det, hvordan vi indsamler og nyder Pokémon-kort.",
+    "howDoesItWork": "Hvordan kommer jeg i gang med Pokemon TCG Pocket?",
+    "howDoesItWorkAnswer": "Det er nemt at komme i gang med Pokémon TCG Pocket! Du skal blot downloade appen, oprette din konto og modtage dine første booster-pakker. Du får to gratis pakker dagligt, og du kan organisere din samling, deltage i kampe og oprette forbindelse med andre samlere. Det intuitive interface gør Pokémon TCG Pocket perfekt til både begyndere og erfarne samlere!",
+    "whoIsItFor": "Hvem kan lide Pokémon TCG Pocket?",
+    "whoIsItForAnswer": "Pokémon TCG Pocket er perfekt til alle! Uanset om du er en tilfældig samler, konkurrencedygtig spiller eller Pokémon fan, vil du finde noget at elske. appen passer til alle niveauer af erfaring, der tilbyder både enkle samling funktioner og dybere strategiske elementer for dem, der ønsker at mestre Pokémon TCG Pockets kampsystem.",
+    "isItFree": "Er Pokémon TCG Pocket virkelig gratis at spille?",
+    "isItFreeAnswer": "Ja! Pokemon TCG Pocket er helt gratis at begynde at spille, med to gratis booster pakker til rådighed dagligt. Mens valgfrie indkøb i appen er tilgængelige for forbedrede funktioner og ekstra pakker, kan du fuldt ud nyde den centrale oplevelse af Pokemon TCG Pocket uden at bruge noget."
+  }
+}

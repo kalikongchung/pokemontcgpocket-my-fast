@@ -1,0 +1,132 @@
+{
+  "Hero": {
+    "title": "Pokemon TCG Pocket - Your Digital Card Collection Adventure(ポケモンTCGポケット)",
+    "description": "革命的なデジタルカード収集体験「Pokemon TCG Pocket」に潜入! 毎日2枚の無料ブースターパックを開いて、感動的な3D効果を持つ素晴らしいカードを発見してください。 あなたが経験豊富なコレクターであろうと、Pokemon TCG Pocketの世界に新しい人であろうと、モバイルデバイスでカード収集と戦いのエキサイティングを体験してください。 世界中のトレーナーの何百万人にも参加して、Pokemon TCG Pocketで今すぐコレクションを開始してください!",
+    "getButton": "Pokemon TCG Pocket - Start Your Collection Nowをダウンロード!",
+    "imageAlt": "Pokemon TCG Pocket ダイナミックカードアニメーションとコレクションディスプレイ"
+  },
+  "Problem": {
+    "title": "ポケモンTCGポケットでこれまでにないようにカード収集を体験!",
+    "description": "デジタルカード収集が最先端のテクノロジーと出会うポケモンTCGポケットの魔法を発見!ポケモンTCGポケモンでは、毎日無料のブースターパックであなたの夢のコレクションを構築し、エキサイティングな戦いに参加し、素晴らしい視覚効果でカードを体験してください。ポケモンTCGポケモンで世界的なコレクターコミュニティに参加してください!",
+    "step1": "Pokemon TCG Pocketのダウンロードとインストール",
+    "step2": "毎日無料のブースターパックを開く",
+    "step3": "あなたのコレクションを構築し、他者と戦う",
+    "whatIs": {
+      "title": "ポケモンTCGポケットとは?",
+      "description": "Pokemon TCG PocketはCreatures Inc.とDeNA Co., Ltd.によって開発されたデジタルカード収集へのゲートウェイです 新規入り者と古いコレクターの両方に最適で、Pokemon TCG Pocketはモバイル形式でPokemon Trading Card Gameを体験するための革新的なアプローチを提供します。"
+    },
+    "howWorks": {
+      "title": "ポケモンTCGポケットはどのように機能しますか?",
+      "description": "Pokemon TCG Pocket では、コレクションを拡張するために毎日 2 つの無料のブースター パッケージを受け取ります. 素晴らしい 3D 詳細でカードを閲覧、整理し、賞賛し、自動戦闘に参加し、世界中のコレクターとつながります. Pokemon TCG Pocket の直感的なインターフェイスにより、コレクションと戦闘が誰にでもアクセスできます。"
+    },
+    "benefits": {
+      "title": "トレーナーがポケモンTCGポケットを愛する理由",
+      "emotional": {
+        "title": "「Pokemon TCG Pocket」",
+        "items": [
+          "デジタル・ブースター・パッケージを毎日開く感動を体験",
+          "ユニークなビジュアル効果で素晴らしい3Dでカードを賞賛",
+          "Pokemon TCG Pocket Collectorsのグローバルコミュニティに接続",
+          "珍しいカードセットやコレクションの完成を祝う"
+        ]
+      },
+      "cognitive": {
+        "title": "Pokemon TCG Pocketの戦略的な深さ",
+        "items": [
+          "あなたのデジタルコレクションでマスターデッキビルディング戦略",
+          "カード組み合わせと戦闘戦術を学ぶ",
+          "Pokemon TCG Pocket でコレクションの進捗状況を追跡",
+          "自動戦力学を通じて戦略的思考を開発する"
+        ]
+      }
+    },
+    "future": {
+      "title": "ポケモンTCGポケットでデジタルカード収集の未来",
+      "description": "Pokemon TCG Pocketは、刺激的な新しい機能で進化し続けています。",
+      "items": [
+        "新しいカードセットと特別エディションの定期的な更新",
+        "インタラクティブなカード体験のための強化されたAR機能",
+        "拡張された戦闘モードとトーナメントオプション",
+        "特別イベントおよび限定コレクション",
+        "Pokemon TCG Pocketに登場するプラットフォーム間の接続機能"
+      ]
+    },
+    "ethical": {
+      "title": "『Pokemon TCG Pocket』",
+      "description": "Pokemon TCG Pocketは、バランスの取れたゲーム環境を維持します。",
+      "items": [
+        "すべてのプレイヤーのための毎日の無料ブースターパック",
+        "強化された体験のためのアプリ内購入",
+        "コミュニティフィードバックに基づく定期的な更新",
+        "安全で安全な貿易環境"
+      ]
+    },
+    "conclusion": {
+      "title": "Pokemon TCG Pocketのコレクションを今すぐ始める!",
+      "description": "Pokemon TCG Pocket でデジタルカード収集革命に参加してください! あなたが偶然のコレクターであろうと競合的なプレイヤーであろうと、Pokemon TCG Pocket は無限のエンターテイメントとコレクションの可能性を提供します。"
+    }
+  },
+  "OtherComponent": {
+    "someKey": "今日はPokemon TCG Pocketをチェック!"
+  },
+  "LanguageSwitcher": {
+    "language": {
+      "en": "English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "it": "Italiano",
+      "pt": "Português",
+      "nl": "Nederlands",
+      "pl": "Polski",
+      "ru": "Русский",
+      "ja": "日本語",
+      "ko": "한국어",
+      "zh": "中文",
+      "ar": "العربية",
+      "hi": "हिन्दी",
+      "tr": "Türkçe",
+      "sv": "Svenska",
+      "da": "Dansk",
+      "fi": "Suomi"
+    }
+  },
+  "Pricing": {
+    "title": "Pokemon TCG Pocket でコレクションを開始!",
+    "subtitle": "デジタルカード収集の旅を無料の毎日パッケージで始める!",
+    "promotion": "Pokemon TCG Pocket をすでに楽しんでいる何百万ものコレクターに加わる!",
+    "popular": "開催コレクション",
+    "currency": "ドル",
+    "paymentType": "オプションのアプリ内購入で無料で遊ぶ"
+  },
+  "FAQ": {
+    "title": "Pokemon TCG Pocket FAQ - あなたのデジタルカードコレクションガイド",
+    "subtitle": "Pokemon TCG Pocketについて知っておくべきこと",
+    "faqList": [
+      {
+        "question": "whatIsPokemonTCGPocket",
+        "answer": "whatIsPokemonTCGPocketAnswer"
+      },
+      {
+        "question": "howDoesItWork",
+        "answer": "howDoesItWorkAnswer"
+      },
+      {
+        "question": "whoIsItFor",
+        "answer": "whoIsItForAnswer"
+      },
+      {
+        "question": "isItFree",
+        "answer": "isItFreeAnswer"
+      }
+    ],
+    "whatIsPokemonTCGPocket": "ポケモンTCGポケットは何が特別なの?",
+    "whatIsPokemonTCGPocketAnswer": "Pokemon TCG Pocketはデジタルカード収集の究極の体験です! 毎日無料のブースターパック、素晴らしい3Dカードアニメーション、そしてアクティブなグローバルコミュニティで、私たちがポケモンカードを収集して楽しむ方法を革命化します。 あなたが長年のファンであろうと新しいコレクターであろうと、Pokemon TCG Pocketはあなたのデジタルコレクションを構築するためのアクセス可能でエキサイティングな方法を提供します!",
+    "howDoesItWork": "Pokemon TCG Pocket はどうやって始めるの?",
+    "howDoesItWorkAnswer": "Pokemon TCG Pocketで始めるのは簡単! アプリをダウンロードし、アカウントを作成し、最初のブースターパックを受け取るだけで、毎日2つの無料パックを手に入れ、コレクションを整理し、戦闘に参加し、他のコレクターと接続できます。 直感的なインターフェイスにより、Pokemon TCG Pocketは初心者や経験豊富なコレクターの両方に最適です!",
+    "whoIsItFor": "ポケモンTCGポケットは誰が楽しむの?",
+    "whoIsItForAnswer": "Pokemon TCG Pocketは誰にでも最適です! あなたが偶然のコレクター、競争相手のプレイヤー、またはポケモンファンであるかに関係なく、あなたは愛するものを見つけるでしょう。 アプリはすべてのレベルの経験を満たし、ポケモン TCG Pocketの戦闘システムをマスターしたい人々のためにシンプルなコレクション機能とより深い戦略的要素を提供します。",
+    "isItFree": "ポケモンTCGポケットは本当に無料ですか?",
+    "isItFreeAnswer": "はい! Pokemon TCG Pocket は、毎日 2 つの無料のブースター パッケージが利用可能なため、完全に無料でプレイできます。アップグレード機能と追加パッケージのためのアプリ内購入はオプションですが、私たちの目標は、デジタルカード収集を誰にでも利用できるようにすることです!"
+  }
+}

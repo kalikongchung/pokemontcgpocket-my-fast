@@ -1,0 +1,132 @@
+{
+  "Hero": {
+    "title": "Pokémon TCG Pocket - Digitaalisen kortin kokoelman seikkailu",
+    "description": "Nauti Pokemon TCG Pocketista, mullistavasta digitaalisesta korttien keräyskokemuksesta! Avaa kaksi ilmaista booster-pakettia päivittäin ja löydä hämmästyttäviä kortteja hämmästyttävillä 3D-efekteillä. Olitpa kokenut keräilijä tai uusi Pokemon TCG Pocketin maailmaan, koe korttien keräämisen ja taistelun jännitys mobiililaitteellasi. Liity miljooniin kouluttajiin ympäri maailmaa Pokemon TCG Pocketissa ja aloita kokoelma tänään!",
+    "getButton": "Lataa Pokémon TCG Pocket - Aloita kokoelma nyt!",
+    "imageAlt": "Pokémon TCG Pocket, jossa on dynaamiset korttianimaatiot ja kokoelman näyttö"
+  },
+  "Problem": {
+    "title": "Koe korttien kerääminen kuin koskaan ennen Pokémon TCG Pocketilla!",
+    "description": "Tutustu Pokémon TCG Pocketin taikuuteen, jossa digitaalisten korttien kerääminen vastaa huippuluokan tekniikkaan! Pokémon TCG Pocketissa voit rakentaa unelmasi kokoelman päivittäisillä ilmaisilla booster-paketeilla, osallistua jännittäviin taisteluihin ja kokea kortteja, jotka tulevat eloon hämmästyttävillä visuaalisilla tehosteilla.",
+    "step1": "Lataa ja asenna Pokemon TCG Pocket",
+    "step2": "Avaa päivittäinen ilmainen Booster Pack",
+    "step3": "Rakenna kokoelmasi ja taistele muita vastaan",
+    "whatIs": {
+      "title": "Mikä on Pokémon TCG Pocket?",
+      "description": "Pokémon TCG Pocket on portti digitaaliseen korttien keräämiseen, jonka ovat kehittäneet Creatures Inc. ja DeNA Co., Ltd. Täydellinen sekä aloittelijoille että veteraaneille keräilijöille, Pokémon TCG Pocket tarjoaa innovatiivisen lähestymistavan kokea Pokémon Trading Card Game mobiilimuodossa."
+    },
+    "howWorks": {
+      "title": "Miten Pokemon TCG Pocket toimii?",
+      "description": "Pokémon TCG Pocketissa saat kaksi ilmaista booster-pakettia päivittäin kokoelman laajentamiseksi. Selaa, järjestä ja ihaile korttisi hämmästyttävässä 3D-yksityisyydessä, osallistu automaattisiin taisteluihin ja muodosta yhteys muiden keräilijöiden kanssa ympäri maailmaa. Pokémon TCG Pocketin intuitiivinen käyttöliittymä tekee keräämisestä ja taistelusta kaikkien saatavilla."
+    },
+    "benefits": {
+      "title": "Miksi valmentajat rakastavat Pokémon TCG Pocketia",
+      "emotional": {
+        "title": "Näytä tarkat tiedot Pokémon TCG Pocket",
+        "items": [
+          "Koe digitaalisten booster-pakettien päivittäisen avaamisen jännitys",
+          "Ihaile kortteja hämmästyttävässä 3D:ssä ainutlaatuisilla visuaalisilla tehosteilla",
+          "Liity maailmanlaajuiseen Pokémon TCG Pocket -keräilijöiden yhteisöön",
+          "Juhli harvinaisten korttien kokoelmien ja kokoelmien valmistumista"
+        ]
+      },
+      "cognitive": {
+        "title": "Strateginen syvyys Pokémon TCG Pocket",
+        "items": [
+          "Master deck-rakennusstrategioita digitaalisen kokoelman kanssa",
+          "Opi korttiyhdistelmät ja taistelutaktiikka",
+          "Seuraa kokoelman edistymistä Pokémon TCG Pocketissa",
+          "Kehitä strategista ajattelua automaattisen taistelun mekaniikan avulla"
+        ]
+      }
+    },
+    "future": {
+      "title": "Digitaalisen kortin keräämisen tulevaisuus Pokémon TCG Pocketissa",
+      "description": "Pokemon TCG Pocket kehittyy edelleen jännittävillä uusilla ominaisuuksilla:",
+      "items": [
+        "Säännöllisiä päivityksiä uusilla korttipaketeilla ja erikoislehdillä",
+        "Parannetut AR-ominaisuudet interaktiivisiin korttikokemuksiin",
+        "Laajennetut taistelutilat ja turnausvaihtoehdot",
+        "Erityiset tapahtumat ja rajoitetun ajan kokoelmat",
+        "Pokémon TCG Pocketin monipuoliset yhteysominaisuudet"
+      ]
+    },
+    "ethical": {
+      "title": "Pokémon TCG taskussa",
+      "description": "Pokemon TCG Pocket ylläpitää tasapainoista peliympäristöä:",
+      "items": [
+        "Päivittäiset ilmaiset booster-paketit kaikille pelaajille",
+        "Vaihtoehtoiset app-ostot parempien kokemusten aikaansaamiseksi",
+        "Säännölliset päivitykset perustuvat yhteisön palautteeseen",
+        "Turvallinen ja turvallinen kaupankäyntiympäristö"
+      ]
+    },
+    "conclusion": {
+      "title": "Aloita kokoelma Pokémon TCG Pocket tänään!",
+      "description": "Liity digitaalisten korttien keräämisen vallankumoukseen Pokémon TCG Pocketilla! Olitpa sitten satunnainen keräilijä tai kilpaileva pelaaja, Pokémon TCG Pocket tarjoaa loputtomia viihde- ja keräilymahdollisuuksia. Lataa nyt ja koe Pokémon korttien keräämisen seuraava kehitys!"
+    }
+  },
+  "OtherComponent": {
+    "someKey": "Tutustu Pokémon TCG taskuihin tänään!"
+  },
+  "LanguageSwitcher": {
+    "language": {
+      "en": "English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "it": "Italiano",
+      "pt": "Português",
+      "nl": "Nederlands",
+      "pl": "Polski",
+      "ru": "Русский",
+      "ja": "日本語",
+      "ko": "한국어",
+      "zh": "中文",
+      "ar": "العربية",
+      "hi": "हिन्दी",
+      "tr": "Türkçe",
+      "sv": "Svenska",
+      "da": "Dansk",
+      "fi": "Suomi"
+    }
+  },
+  "Pricing": {
+    "title": "Aloita kerääminen Pokémon TCG Pocketilla!",
+    "subtitle": "Aloita digitaalisten korttien keräysmatka ilmaisilla päivittäisillä paketeilla!",
+    "promotion": "Liity miljooniin keräilijöihin, jotka jo nauttivat Pokémon TCG Pocketista!",
+    "popular": "Valmistettu kokoelma",
+    "currency": "Yhdysvallat USD",
+    "paymentType": "Vapaa pelata valinnaisilla app-ostoksilla"
+  },
+  "FAQ": {
+    "title": "Pokemon TCG Pocket FAQ - Digitaalisten korttien keräysopas",
+    "subtitle": "Kaikki mitä sinun tarvitsee tietää Pokémon TCG Pocketista",
+    "faqList": [
+      {
+        "question": "whatIsPokemonTCGPocket",
+        "answer": "whatIsPokemonTCGPocketAnswer"
+      },
+      {
+        "question": "howDoesItWork",
+        "answer": "howDoesItWorkAnswer"
+      },
+      {
+        "question": "whoIsItFor",
+        "answer": "whoIsItForAnswer"
+      },
+      {
+        "question": "isItFree",
+        "answer": "isItFreeAnswer"
+      }
+    ],
+    "whatIsPokemonTCGPocket": "Mikä tekee Pokémon TCG Pocketista erityisen?",
+    "whatIsPokemonTCGPocketAnswer": "Pokémon TCG Pocket on lopullinen digitaalisten korttien keräämiskokemus! Päivittäisten ilmaisten booster-pakettien, hämmästyttävien 3D-korttien animaatioiden ja aktiivisen maailmanlaajuisen yhteisön avulla se mullistaa tavan, jolla keräämme ja nautimme Pokémon-kortteista. Olitpa sitten pitkäaikainen fani tai uusi keräilijä, Pokémon TCG Pocket tarjoaa helpon ja jännittävän tavan rakentaa digitaalinen kokoelmaasi!",
+    "howDoesItWork": "Miten aloitan Pokémon TCG Pocketin käyttämisen?",
+    "howDoesItWorkAnswer": "Aloittaminen Pokémon TCG Pocketilla on helppoa! Lataa vain sovellus, luo tilisi ja saat ensimmäiset booster-pakkauksesi. Saat kaksi ilmaista pakettia päivittäin ja voit järjestää kokoelmasi, osallistua taisteluihin ja yhdistää muiden keräilijöiden kanssa. Intuitiivinen käyttöliittymä tekee Pokémon TCG Pocketista täydellisen sekä aloittelijoille että kokeneille keräilijöille!",
+    "whoIsItFor": "Kuka nauttii Pokémon TCG Pocketista?",
+    "whoIsItForAnswer": "Pokémon TCG Pocket on täydellinen kaikille! Olitpa sitten satunnainen keräilijä, kilpaileva pelaaja tai Pokémon-fan, löydät jotain rakastettavaa. Sovellus sopii kaikkiin kokemustasoihin ja tarjoaa sekä yksinkertaisia keräilyominaisuuksia että syvempiä strategisia elementtejä niille, jotka haluavat hallita Pokémon TCG Pocketin taistelujärjestelmää.",
+    "isItFree": "Onko Pokémon TCG Pocket todella ilmainen pelata?",
+    "isItFreeAnswer": "Kyllä! Pokemon TCG Pocket on täysin ilmainen aloittaa pelaamisen, ja kaksi ilmaista booster-pakettia on saatavilla päivittäin. Vaikka valinnaiset sovelluksessa ostokset ovat saatavilla parannetuille ominaisuuksille ja lisäpaketeille, voit nauttia täysin Pokemon TCG Pocketin ydinkokemuksesta kuluttamatta mitään. Tavoitteenamme on tehdä digitaalisten korttien kerääminen kaikkien saatavilla!"
+  }
+}

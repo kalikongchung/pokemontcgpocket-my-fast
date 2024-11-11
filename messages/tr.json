@@ -1,0 +1,132 @@
+{
+  "Hero": {
+    "title": "Pokemon TCG Pocket: Your Digital Card Collection Adventure Hakkında",
+    "description": "Devrimci dijital kart toplama deneyimi olan Pokemon TCG Pocket'e dalın! Her gün iki ücretsiz güçlendirme paketi açın ve etkileyici 3D efektlerle şaşırtıcı kartlar keşfedin. Eğer Pokemon TCG Pocket'in dünyasına yeni ya da deneyimli bir koleksiyoncu iseniz, mobil cihazınızda kart toplama ve mücadele heyecanı yaşayın. Pokemon TCG Pocket'te dünya çapında milyonlarca eğitmen katılın ve koleksiyonunuzu bugün başlatın!",
+    "getButton": "Pokemon TCG Pocket - Koleksiyonunuzu Şimdi Başlatın!",
+    "imageAlt": "Pokemon TCG Pocket, dinamik kart animasyonları ve koleksiyon görüntüleri içeriyor"
+  },
+  "Problem": {
+    "title": "Pokemon TCG Pocket ile daha önce hiç olmadığı gibi kart toplama deneyimi!",
+    "description": "Pokemon TCG Pocket'in büyüsünü keşfedin, dijital kart toplama en son teknolojiyi karşılayacak! Pokemon TCG Pocket'te, günlük ücretsiz güçlendirme paketleri ile hayallerinizin koleksiyonunu oluşturun, heyecan verici savaşlara katılın ve harika görsel efektlerle kartlar yaşamaya başlayın. Pokemon TCG Pocket'te küresel koleksiyonculara katılın!",
+    "step1": "Pokemon TCG Pocket İndir",
+    "step2": "Günlük Ücretsiz Booster Paketi",
+    "step3": "Koleksiyonunuzu oluşturun ve başkalarıyla savaşın",
+    "whatIs": {
+      "title": "Pokemon TCG Pocket Nedir?",
+      "description": "Pokemon TCG Pocket, Creatures Inc. ve DeNA Co., Ltd. tarafından geliştirilen dijital kart toplama kapısıdır. hem yeni gelenler hem de eski koleksiyoncular için mükemmel, Pokemon TCG Pocket, Pokemon Trading Card Oyunu'nu mobil bir biçimde deneyimlemek için yenilikçi bir yaklaşım sunar."
+    },
+    "howWorks": {
+      "title": "Pokemon TCG Pocket Nasıl Çalışır?",
+      "description": "Pokemon TCG Pocket'te, koleksiyonunuzu genişletmek için günde iki ücretsiz güçlendirici paketi alacaksınız. Kartlarınızı muhteşem 3D ayrıntılarla gezin, düzenleyin ve hayranlıkla izleyin, otomatik savaşlara katılın ve dünyanın dört bir yanındaki koleksiyoncularla bağlantı kurun. Pokemon TCG Pocket'in sezgisel arayüzü, toplama ve mücadeleyi herkes için erişilebilir hale getirir."
+    },
+    "benefits": {
+      "title": "Antrenörler Pokemon TCG Pocket'i Neden Seviyor",
+      "emotional": {
+        "title": "Pokémon TCG Pocket'te Çıkış Tarihi",
+        "items": [
+          "Günlük olarak dijital güçlendirme paketlerini açmanın heyecanını yaşayın",
+          "Kartlarınızı eşsiz görsel efektlerle muhteşem 3D'de hayal edin",
+          "Pokemon TCG Pocket koleksiyoncularının küresel bir topluluğuna bağlanın",
+          "Nadir kart setleri ve koleksiyonları tamamlamak için kutlayın"
+        ]
+      },
+      "cognitive": {
+        "title": "Pokemon TCG Pocket'in Stratejik Derinliği",
+        "items": [
+          "Dijital koleksiyonunuzla Master Deck Building Stratejileri",
+          "Kart kombinasyonları ve savaş taktiklerini öğrenin",
+          "Pokemon TCG Pocket'te koleksiyonunuzu takip edin",
+          "Otomatik Savaş Mekanikleri ile Stratejik Düşünce Geliştirme"
+        ]
+      }
+    },
+    "future": {
+      "title": "Pokemon TCG Pocket'te Dijital Kart Toplama Geleceği",
+      "description": "Pokemon TCG Pocket heyecan verici yeni özelliklerle gelişmeye devam ediyor:",
+      "items": [
+        "Yeni kart setleri ve özel sürümlerle düzenli güncellemeler",
+        "Interaktif kart deneyimleri için geliştirilmiş AR özellikleri",
+        "Genişletilmiş savaş modları ve turnuva seçenekleri",
+        "Özel etkinlikler ve sınırlı zamanlı koleksiyonlar",
+        "Pokemon TCG Pocket’e Gelecek Çapraz Platform Bağlantı Özellikleri"
+      ]
+    },
+    "ethical": {
+      "title": "Pokemon TCG Pocket Hakkında",
+      "description": "Pokemon TCG Pocket, dengeli bir oyun ortamı sağlar:",
+      "items": [
+        "Tüm Oyuncular için Günlük Ücretsiz Booster Paketi",
+        "Gelişmiş deneyimler için opsiyonel uygulama içi satın alma",
+        "Topluluk geri bildirimlerine dayanan düzenli güncellemeler",
+        "Güvenli ve güvenli ticaret ortamı"
+      ]
+    },
+    "conclusion": {
+      "title": "Pokemon TCG Pocket koleksiyonunuzu bugün başlatın!",
+      "description": "Pokemon TCG Pocket ile dijital kart toplama devrimine katılın! Sıradan bir koleksiyoncu ya da rekabetçi bir oyuncuysanız, Pokemon TCG Pocket sonsuz eğlence ve toplama olasılıkları sunar. Şimdi indirin ve Pokemon kart toplama'nın bir sonraki evrimi deneyin!"
+    }
+  },
+  "OtherComponent": {
+    "someKey": "Pokemon TCG Pocket’i bugün keşfedin!"
+  },
+  "LanguageSwitcher": {
+    "language": {
+      "en": "English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "it": "Italiano",
+      "pt": "Português",
+      "nl": "Nederlands",
+      "pl": "Polski",
+      "ru": "Русский",
+      "ja": "日本語",
+      "ko": "한국어",
+      "zh": "中文",
+      "ar": "العربية",
+      "hi": "हिन्दी",
+      "tr": "Türkçe",
+      "sv": "Svenska",
+      "da": "Dansk",
+      "fi": "Suomi"
+    }
+  },
+  "Pricing": {
+    "title": "Pokemon TCG Pocket ile Toplamaya Başlayın!",
+    "subtitle": "Ücretsiz günlük paketlerle dijital kart toplama yolculuğunuza başlayın!",
+    "promotion": "Pokemon TCG Pocket'i zaten kullanan milyonlarca koleksiyoner katılın!",
+    "popular": "Koleksiyon yapıldı",
+    "currency": "Doları",
+    "paymentType": "Uygulama İçinde Opsiyonel Alışverişler ile Ücretsiz Oynamak"
+  },
+  "FAQ": {
+    "title": "Pokemon TCG Pocket FAQ - Dijital Kart Koleksiyonu Kılavuzu",
+    "subtitle": "Pokemon TCG Pocket Hakkında Bilmeniz Gerekenler",
+    "faqList": [
+      {
+        "question": "whatIsPokemonTCGPocket",
+        "answer": "whatIsPokemonTCGPocketAnswer"
+      },
+      {
+        "question": "howDoesItWork",
+        "answer": "howDoesItWorkAnswer"
+      },
+      {
+        "question": "whoIsItFor",
+        "answer": "whoIsItForAnswer"
+      },
+      {
+        "question": "isItFree",
+        "answer": "isItFreeAnswer"
+      }
+    ],
+    "whatIsPokemonTCGPocket": "Pokemon TCG Pocket’in özelliği nedir?",
+    "whatIsPokemonTCGPocketAnswer": "Pokemon TCG Pocket, nihai dijital kart toplama deneyimidir! Günlük ücretsiz güçlendirme paketleri, şaşırtıcı 3D kart animasyonları ve aktif bir küresel topluluk ile Pokemon kartları toplama ve keyfini çıkarma şeklimizi devrimci hale getirir. Uzun süredir hayran ya da yeni bir koleksiyoncuysanız, Pokemon TCG Pocket dijital koleksiyonunuzu oluşturmanın erişilebilir ve heyecan verici bir yolunu sunar!",
+    "howDoesItWork": "Pokemon TCG Pocket ile nasıl başlarım?",
+    "howDoesItWorkAnswer": "Pokemon TCG Pocket ile başlamak kolaydır! Uygulamayı indirin, hesabınızı oluşturun ve ilk güçlendirici paketlerinizi alın. Günde iki ücretsiz paket alacaksınız ve koleksiyonunuzu düzenleyebilir, savaşlara katılabilirsiniz ve diğer koleksiyoncularla bağlantı kurabilirsiniz.",
+    "whoIsItFor": "Pokemon TCG Pocket’i kimler oynayacak?",
+    "whoIsItForAnswer": "Pokemon TCG Pocket herkes için mükemmel! Sıradan bir koleksiyoncu, rekabetçi bir oyuncu ya da Pokemon hayranı olun, sevebileceğiniz bir şey bulacaksınız. uygulaması, Pokemon TCG Pocket'in savaş sistemini öğrenmek isteyenler için hem basit koleksiyon özellikleri hem de daha derin stratejik unsurları sunar.",
+    "isItFree": "Pokemon TCG Pocket gerçekten ücretsiz mi?",
+    "isItFreeAnswer": "Evet! Pokemon TCG Pocket, günde iki ücretsiz güçlendirici paketi ile oynamaya başlamak için tamamen ücretsizdir. Gelişmiş özellikler ve ek paketler için uygulama içi satın alma seçenekleri mevcutken, Pokemon TCG Pocket'in temel deneyimini herhangi bir şey harcamadan tam olarak keyfini çıkarabilirsiniz."
+  }
+}

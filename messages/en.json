@@ -1,0 +1,132 @@
+{
+  "Hero": {
+    "title": "Pokemon TCG Pocket - Your Digital Card Collection Adventure",
+    "description": "Dive into Pokemon TCG Pocket, the revolutionary digital card collection experience! Open two free booster packs daily and discover stunning cards with immersive 3D effects. Whether you're a seasoned collector or new to the world of Pokemon TCG Pocket, experience the thrill of card collecting and battling on your mobile device. Join millions of trainers worldwide in Pokemon TCG Pocket and start your collection today!",
+    "getButton": "Download Pokemon TCG Pocket - Start Your Collection Now!",
+    "imageAlt": "Pokemon TCG Pocket featuring dynamic card animations and collection display"
+  },
+  "Problem": {
+    "title": "Experience Card Collecting Like Never Before with Pokemon TCG Pocket!",
+    "description": "Discover the magic of Pokemon TCG Pocket, where digital card collecting meets cutting-edge technology! In Pokemon TCG Pocket, build your dream collection with daily free booster packs, engage in thrilling battles, and experience cards coming to life with stunning visual effects. Join a global community of collectors in Pokemon TCG Pocket!",
+    "step1": "Download and Install Pokemon TCG Pocket",
+    "step2": "Open Your Daily Free Booster Packs",
+    "step3": "Build Your Collection and Battle Others",
+    "whatIs": {
+      "title": "What is Pokemon TCG Pocket?",
+      "description": "Pokemon TCG Pocket is your gateway to digital card collecting, developed by Creatures Inc. and DeNA Co., Ltd. Perfect for both newcomers and veteran collectors, Pokemon TCG Pocket offers an innovative approach to experiencing the Pokemon Trading Card Game in a mobile format."
+    },
+    "howWorks": {
+      "title": "How Does Pokemon TCG Pocket Work?",
+      "description": "In Pokemon TCG Pocket, you'll receive two free booster packs daily to expand your collection. Browse, organize, and admire your cards in stunning 3D detail, participate in auto-battles, and connect with fellow collectors worldwide. Pokemon TCG Pocket's intuitive interface makes collecting and battling accessible to everyone."
+    },
+    "benefits": {
+      "title": "Why Trainers Love Pokemon TCG Pocket",
+      "emotional": {
+        "title": "Immersive Collection Experience in Pokemon TCG Pocket",
+        "items": [
+          "Experience the thrill of opening digital booster packs daily",
+          "Admire your cards in stunning 3D with unique visual effects",
+          "Connect with a global community of Pokemon TCG Pocket collectors",
+          "Celebrate completing rare card sets and collections"
+        ]
+      },
+      "cognitive": {
+        "title": "Strategic Depth of Pokemon TCG Pocket",
+        "items": [
+          "Master deck building strategies with your digital collection",
+          "Learn card combinations and battle tactics",
+          "Track your collection progress in Pokemon TCG Pocket",
+          "Develop strategic thinking through auto-battle mechanics"
+        ]
+      }
+    },
+    "future": {
+      "title": "The Future of Digital Card Collecting in Pokemon TCG Pocket",
+      "description": "Pokemon TCG Pocket continues to evolve with exciting new features:",
+      "items": [
+        "Regular updates with new card sets and special editions",
+        "Enhanced AR features for interactive card experiences",
+        "Expanded battle modes and tournament options",
+        "Special events and limited-time collections",
+        "Cross-platform connectivity features coming to Pokemon TCG Pocket"
+      ]
+    },
+    "ethical": {
+      "title": "Fair Play in Pokemon TCG Pocket",
+      "description": "Pokemon TCG Pocket maintains a balanced gaming environment:",
+      "items": [
+        "Daily free booster packs for all players",
+        "Optional in-app purchases for enhanced experiences",
+        "Regular updates based on community feedback",
+        "Safe and secure trading environment"
+      ]
+    },
+    "conclusion": {
+      "title": "Start Your Collection in Pokemon TCG Pocket Today!",
+      "description": "Join the digital card collecting revolution with Pokemon TCG Pocket! Whether you're a casual collector or competitive player, Pokemon TCG Pocket offers endless entertainment and collection possibilities. Download now and experience the next evolution of Pokemon card collecting!"
+    }
+  },
+  "OtherComponent": {
+    "someKey": "Explore Pokemon TCG Pocket today!"
+  },
+  "LanguageSwitcher": {
+    "language": {
+      "en": "English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "it": "Italiano",
+      "pt": "Português",
+      "nl": "Nederlands",
+      "pl": "Polski",
+      "ru": "Русский",
+      "ja": "日本語",
+      "ko": "한국어",
+      "zh": "中文",
+      "ar": "العربية",
+      "hi": "हिन्दी",
+      "tr": "Türkçe",
+      "sv": "Svenska",
+      "da": "Dansk",
+      "fi": "Suomi"
+    }
+  },
+  "Pricing": {
+    "title": "Start Collecting with Pokemon TCG Pocket!",
+    "subtitle": "Begin your digital card collection journey with free daily packs!",
+    "promotion": "🎮 Join millions of collectors already enjoying Pokemon TCG Pocket!",
+    "popular": "FEATURED COLLECTION",
+    "currency": "USD",
+    "paymentType": "Free to play with optional in-app purchases"
+  },
+  "FAQ": {
+    "title": "Pokemon TCG Pocket FAQ - Your Digital Card Collection Guide",
+    "subtitle": "Everything You Need to Know About Pokemon TCG Pocket",
+    "faqList": [
+      {
+        "question": "whatIsPokemonTCGPocket",
+        "answer": "whatIsPokemonTCGPocketAnswer"
+      },
+      {
+        "question": "howDoesItWork",
+        "answer": "howDoesItWorkAnswer"
+      },
+      {
+        "question": "whoIsItFor",
+        "answer": "whoIsItForAnswer"
+      },
+      {
+        "question": "isItFree",
+        "answer": "isItFreeAnswer"
+      }
+    ],
+    "whatIsPokemonTCGPocket": "What makes Pokemon TCG Pocket special?",
+    "whatIsPokemonTCGPocketAnswer": "Pokemon TCG Pocket is the ultimate digital card collecting experience! With daily free booster packs, stunning 3D card animations, and an active global community, it revolutionizes how we collect and enjoy Pokemon cards. Whether you're a longtime fan or new collector, Pokemon TCG Pocket offers an accessible and exciting way to build your digital collection!",
+    "howDoesItWork": "How do I get started with Pokemon TCG Pocket?",
+    "howDoesItWorkAnswer": "Getting started with Pokemon TCG Pocket is easy! Simply download the app, create your account, and receive your first booster packs. You'll get two free packs daily, and can organize your collection, participate in battles, and connect with other collectors. The intuitive interface makes Pokemon TCG Pocket perfect for both beginners and experienced collectors!",
+    "whoIsItFor": "Who will enjoy Pokemon TCG Pocket?",
+    "whoIsItForAnswer": "Pokemon TCG Pocket is perfect for everyone! Whether you're a casual collector, competitive player, or Pokemon fan, you'll find something to love. The app caters to all experience levels, offering both simple collection features and deeper strategic elements for those who want to master Pokemon TCG Pocket's battle system.",
+    "isItFree": "Is Pokemon TCG Pocket really free to play?",
+    "isItFreeAnswer": "Yes! Pokemon TCG Pocket is completely free to start playing, with two free booster packs available daily. While optional in-app purchases are available for enhanced features and additional packs, you can fully enjoy the core experience of Pokemon TCG Pocket without spending anything. Our goal is to make digital card collecting accessible to everyone!"
+  }
+}
